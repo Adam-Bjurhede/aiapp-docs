@@ -2,17 +2,19 @@ site_name: Ai App
 
 theme:
     name: material
+    features:
+        - navigation.instant
     palette:
         # Palette toggle for light mode
         - scheme: default
           primary: green
           toggle:
-              icon: material/brightness-7
+              icon: material/toggle-switch
               name: Switch to dark mode
 
         # Palette toggle for dark mode
         - scheme: slate
           primary: green
           toggle:
-              icon: material/brightness-4
+              icon: material/toggle-switch-off-outline
               name: Switch to light mode

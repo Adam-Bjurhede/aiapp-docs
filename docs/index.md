@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+# Welcome to AIApp Documentation!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+AIApp is a powerful platform for building and deploying AI-powered applications. Whether you're a developer, data scientist, or business professional, AIApp makes it easy to create intelligent applications that can learn, reason, and automate complex tasks.
 
-## Commands
+## Getting Started
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+To get started with AIApp, we recommend that you start by familiarizing yourself with our platform's key features and capabilities. Our [Getting Started Guide](/getting-started) is an excellent place to begin, providing you with a step-by-step introduction to the platform and its various tools.
 
-## Project layout
+## Documentation
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Our documentation is the best place to find in-depth information about AIApp's features, capabilities, and tools. Whether you're looking for technical details about our API or guidance on how to use our visual workflow editor, our documentation provides all the information you need to get started and succeed with AIApp.
+
+## Community
+
+Join our community of developers, data scientists, and business professionals on our [AIApp Community](https://community.aiapp.com) forum. Here you can connect with other users, ask questions, share insights, and learn from the experts.
+
+## Support
+
+If you need additional help or have questions about AIApp, our support team is always available to assist you. Contact us at [support@aiapp.com](mailto:support@aiapp.com) or visit our [Support Center](https://support.aiapp.com) for more information.
+
+We're excited to see what you'll build with AIApp. Happy coding!
